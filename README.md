@@ -26,6 +26,7 @@ In this challenge, you will create a Single Page Application complete with Clien
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question.
 
 - [ ]  Explain benefit(s) using `client-side routing`?
+--Faster processing since less data is being processed. Animations and transitions will be much smoother. The entire webpage does not have to reload when only certain components are triggered and not all.
 
 > Answer:
 
